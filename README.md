@@ -1,6 +1,3 @@
-# MCP
-
-MCP Settings.json
 
 {
     "mcp": {
